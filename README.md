@@ -1,5 +1,8 @@
 # av_loan_prediction
-## Basic Exploratory Data Analysis
+## Objective:
+Reusable ultities. 
+
+## Exploratory Data Analysis
  - Relationship between
     - Categorical feature - Categorical target
     - Numeric feature - Categorical target
